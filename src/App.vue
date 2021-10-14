@@ -70,9 +70,16 @@ const keyboardEvent = function (event) {
 };
 
 const videos = [
-    "https://user-images.githubusercontent.com/46559594/136930700-b416598a-6ced-4a68-8003-0ae7e95d45d3.mp4",
-    "https://user-images.githubusercontent.com/46559594/136930727-5084edf7-dc0d-4b5c-89f2-caf4daab44ba.mp4",
-    "https://user-images.githubusercontent.com/46559594/136930408-fa8d3fc4-54c7-47d0-a5d7-ae0f85fc61b4.mp4",
+    "https://user-images.githubusercontent.com/46559594/137323939-9a469451-3617-49e1-89e7-d457b29ada94.mp4",
+    "https://user-images.githubusercontent.com/46559594/137323952-caa41c8d-8d25-43c4-867f-c474a54d7db4.mp4",
+    "https://user-images.githubusercontent.com/46559594/137323954-eb281ca0-8149-4213-999b-a8ae65ea2c3b.mp4",
+    "https://user-images.githubusercontent.com/46559594/137323960-8d5a2db8-ba18-4d58-9cb8-3a1a177e3c3e.mp4",
+    "https://user-images.githubusercontent.com/46559594/137323964-d43aae2f-1c6d-44e5-b887-2df003c0c272.mp4",
+    "https://user-images.githubusercontent.com/46559594/137323967-39be26a2-098c-48d9-9afc-86f66f746c28.mp4",
+    "https://user-images.githubusercontent.com/46559594/137323969-26f6509f-f593-4e7e-b5be-9c56d4ab5f59.mp4",
+    "https://user-images.githubusercontent.com/46559594/137323974-caddb0ea-d64c-4d4a-9bf7-0630be6e8136.mp4",
+    "https://user-images.githubusercontent.com/46559594/137323977-561c2773-a986-4306-8bcb-21848380f7ed.mp4",
+    "https://user-images.githubusercontent.com/46559594/137323980-1c867a04-d472-492b-9892-fb5fe2ec2acf.mp4",
 ];
 
 const pressedKey = ref("None");
